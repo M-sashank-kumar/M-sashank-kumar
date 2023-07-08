@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 Hey! Everyone
-I'm a passionate in Data analysing  from India
-Coding
+I'm a passionate in Data analysing  from INDIA
+
 
 - 🌱 I’m currently raising in **Data Analyst**
 💬 Talk me about  DATA
